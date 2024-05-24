@@ -1,5 +1,3 @@
-Certainly! Let's delve deeper into the project "Laptop Price AI" and its components:
-
 ## Overview:
 
 **Laptop Price AI** is a machine learning project aimed at predicting the prices of laptops accurately. It employs regression algorithms, specifically Linear Regression and Random Forest, to forecast laptop prices based on various features. The project emphasizes data preprocessing, feature extraction, model training, and evaluation to ensure the accuracy of predictions.
